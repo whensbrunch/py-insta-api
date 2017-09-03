@@ -1,0 +1,4 @@
+instagram-python==1.4
+requests
+requests-toolbelt
+pyyaml
